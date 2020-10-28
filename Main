@@ -7,19 +7,19 @@ public class Main {
         public static void main(String[]args){
         }
 
-        public void method1(){
-            System.out.println("Hello Java");
+        public void method11(){
+            System.out.println("Hello Java1");
         }
         public void method2(){
             System.out.println("Hello World");
         }
 
-        public void add(int a, int b){
-            int c = a+b;
+        public void add1(int a1, int b1){
+            int c = a1+b1;
         }
 
-        public void multiplication(int a, int b){
-            int d = a*b;
+        public void multiplication1(int a1, int b1){
+            int d = a1*b1;
         }
     }
 }
