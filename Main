@@ -1,3 +1,8 @@
 public class Main {
 
+    public int a=10;
+
+    public Main(){
+
+    }
 }
